@@ -162,7 +162,7 @@ export const Main = () => {
       <Figure.Image
         width={500}
         height={500}
-        src="https://files.oaiusercontent.com/file-ytsFsO1W0K1C8ILyLGRnPZ8C?se=2023-11-11T10%3A21%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0f0087c7-d0d0-414f-a0f1-f6140bb4e2f4.webp&sig=R2rK1jpzHG9N4CVKLwsplYT2nsPtJLhlb0mdh2KwvBs%3D"
+        src="https://media.discordapp.net/attachments/1023199844082397234/1172850598836699176/file-ytsFsO1W0K1C8ILyLGRnPZ8C.png?ex=6561d13d&is=654f5c3d&hm=9aea3673c33ace20a02e956300f81acbd5a3d1c164061841aa940fb9a46a37a3&=&width=620&height=620"
       />
       <Figure.Caption>
         Anime-style illustration of a London underground train traveling over the clouds, heavenly, colorful, vibrant
